@@ -1,0 +1,1 @@
+select * from rh_func where sal >2000

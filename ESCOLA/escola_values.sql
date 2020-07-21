@@ -1,0 +1,1 @@
+insert into alunos (nome, setor, maiornota, menornota) values ("Joância", "Ensino médio", 8,6)
